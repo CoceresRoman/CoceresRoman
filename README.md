@@ -1,13 +1,17 @@
+<p align="center">
+  <img src="giphy.gif" alt="header" />
+</p>
+
 # Hi, I'm Roman Coceres 👋
 
 **Argentinian Fullstack Web Developer** — building web apps and tools with modern stacks.
-📍 Posadas, Misiones, Argentina
+Posadas, Misiones, Argentina
 
 Currently working at **[@Helipagos-dev](https://github.com/Helipagos-dev)** and as a **freelancer**.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -26,24 +30,28 @@ Currently working at **[@Helipagos-dev](https://github.com/Helipagos-dev)** and 
 
 ---
 
-## 🚀 Open Source
+## Open Source
 
 ### [agentify](https://github.com/CoceresRoman/agentify)
 Auto-detects your project's tech stack and generates Claude Code configuration files.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoceresRoman&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Roman's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoceresRoman&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoceresRoman&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📬 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:romanagcoceres@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-coceres/)
+
+---
+
+> *"Clean code always looks like it was written by someone who cares"* — Robert C. Martin
