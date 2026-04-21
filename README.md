@@ -2,12 +2,16 @@
   <img src="giphy.gif" alt="header" />
 </p>
 
-# Hi, I'm Roman Coceres 👋
+<h1 align="center">Hi, I'm Roman Coceres 👋</h1>
 
-**Argentinian Fullstack Web Developer** — building web apps and tools with modern stacks.
-Posadas, Misiones, Argentina
+<p align="center">
+  <strong>Argentinian Fullstack Web Developer</strong> — building web apps and tools with modern stacks.<br/>
+  Posadas, Misiones, Argentina
+</p>
 
-Currently working at **[@Helipagos-dev](https://github.com/Helipagos-dev)** and as a **freelancer**.
+<p align="center">
+  Currently working at <strong><a href="https://github.com/Helipagos-dev">@Helipagos-dev</a></strong> and as a <strong>freelancer</strong>.
+</p>
 
 ---
 
