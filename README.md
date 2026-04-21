@@ -36,7 +36,7 @@ Auto-detects your project's tech stack and generates Claude Code configuration f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoceresRoman&show_icons=true&theme=dark&hide_border=true" alt="Roman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CoceresRoman&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Roman's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoceresRoman&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
